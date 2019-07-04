@@ -1,7 +1,7 @@
 # Improving-the-Performance-of-KNN-and-SVM
 
 The Dataset is taken from Kaggle website
-[Iris flower data set](http://en.wikipedia.org/wiki/Iris_flower_data_set). 
+[Iris flower data set](https://www.kaggle.com/uciml/iris). 
 
 The iris dataset contains measurements for 150 iris flowers from three different species.
 
